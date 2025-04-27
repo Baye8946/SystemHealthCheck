@@ -1,6 +1,6 @@
 # System Health Check Script
-# Author: Your Name
-# Date: 2024-MM-DD
+# Author: Alfa Baye
+# Date: 2025-04-26
 # Purpose: Collect system health info and report
 
 # CPU Usage

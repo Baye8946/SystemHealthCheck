@@ -40,3 +40,13 @@ Memory Usage: 45% of 8GB
 Disk C:\ 65% free
 Disk D:\ 80% free
 Last Reboot: 3 days ago
+
+
+
+## License
+This project is licensed under the MIT License. Feel free to modify and use it for personal or commercial projects.
+
+## Author
+Alfa Baye
+
+GitHub: https://github.com/Baye8946

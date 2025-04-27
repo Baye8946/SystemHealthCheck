@@ -5,11 +5,11 @@ This PowerShell script collects and displays basic system health information, in
 It's designed for quick diagnostics without needing to manually open multiple tools.
 
 ## Features
-- ✅ CPU Load reporting.
-- ✅ Memory Usage reporting.
-- ✅ Disk Space usage across all drives.
-- ✅ System Uptime since last reboot.
-- ✅ (Optional) Export health report to an HTML file for easy sharing or record-keeping.
+-  CPU Load reporting.
+-  Memory Usage reporting.
+-  Disk Space usage across all drives.
+-  System Uptime since last reboot.
+-  (Optional) Export health report to an HTML file for easy sharing or record-keeping.
 
 ## How to Use
 
